@@ -20,14 +20,14 @@ Desarrollar durante las semanas 11-12-13 del curso el siguiente laboratorio inte
 
     src/urlModule.js
 
-- [] Node.js Events
+- [x] Node.js Events
 
     src/events.js
 
-- [] Node.js Upload Files
+- [x] Node.js Upload Files
 
     src/uploadFiles.js
 
-- [] Node.js Send an Email
+- [x] Node.js Send an Email
 
-    src/sendEmail.js
+    src/email.js
